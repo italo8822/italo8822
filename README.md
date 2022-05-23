@@ -12,7 +12,7 @@
   <img align="center" alt="Italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Italo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Italo-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FTeCIykWAAM-324?format=png&name=small width=676&height=676">
+  <img align="right" alt="Italo-pic" height="150" style="border-radius:50px;" src="[https://pbs.twimg.com/media/FTeCIykWAAM-324?format=png&name=small](https://media-exp1.licdn.com/dms/image/C4D03AQEHJsepKyfHww/profile-displayphoto-shrink_800_800/0/1652630943339?e=1658966400&v=beta&t=agW3IzR5hOXVnHy9I_8eSr70MUIZN5O1-jATcgRv11w) width=676&height=676">
 </div>
   
   ##
